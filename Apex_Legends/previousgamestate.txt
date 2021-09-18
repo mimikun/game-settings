@@ -1,0 +1,8 @@
+"GameState"
+{
+	"state.buildString"		"R5pc_r5-101_J60_CL1667383_2021_09_03_19_24"
+	"state.totalMapsFullyConnectedTo"		"5"
+	"state.lastTimeStampInMinutes"		"89"
+	"state.wasGameRunning"		"0"
+	"state.lastMapFullyConnectedTo"		"no_map"
+}
