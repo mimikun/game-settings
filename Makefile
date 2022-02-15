@@ -8,3 +8,7 @@ apex :
 cookieclicker :
 	@echo "Run it:"
 	@echo 'git commit -am "Update Cookie Clicker data"'
+
+.PHONY : test
+test :
+	shellcheck ./*.sh
