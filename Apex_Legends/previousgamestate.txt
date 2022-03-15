@@ -1,8 +1,8 @@
 "GameState"
 {
-	"state.buildString"		"R5pc_r5-120_J59_CL2207171_2022_02_14_19_54"
+	"state.buildString"		"R5pc_r5-120_J70_CL2287261_2022_03_03_19_21"
 	"state.totalMapsFullyConnectedTo"		"1"
-	"state.lastTimeStampInMinutes"		"27"
-	"state.wasGameRunning"		"0"
-	"state.lastMapFullyConnectedTo"		"no_map"
+	"state.lastTimeStampInMinutes"		"1"
+	"state.wasGameRunning"		"1"
+	"state.lastMapFullyConnectedTo"		"mp_rr_canyonlands_staging"
 }
